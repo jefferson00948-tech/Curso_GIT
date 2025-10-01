@@ -1,1 +1,1 @@
-# Bem vindo ao curdo  de GIT
+# Bem vindo ao curso  de GIT
