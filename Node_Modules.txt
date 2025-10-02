@@ -1,0 +1,1 @@
+Ignorando envio  de pasta para o GitHub
